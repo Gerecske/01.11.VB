@@ -1,0 +1,7 @@
+C:\Users\szilg\source\repos\fociVBk\fociVBk\bin\Debug\fociVBk.exe.config
+C:\Users\szilg\source\repos\fociVBk\fociVBk\bin\Debug\fociVBk.exe
+C:\Users\szilg\source\repos\fociVBk\fociVBk\bin\Debug\fociVBk.pdb
+C:\Users\szilg\source\repos\fociVBk\fociVBk\obj\Debug\fociVBk.csprojAssemblyReference.cache
+C:\Users\szilg\source\repos\fociVBk\fociVBk\obj\Debug\fociVBk.csproj.CoreCompileInputs.cache
+C:\Users\szilg\source\repos\fociVBk\fociVBk\obj\Debug\fociVBk.exe
+C:\Users\szilg\source\repos\fociVBk\fociVBk\obj\Debug\fociVBk.pdb
